@@ -1,5 +1,5 @@
 # PPO Mario From Scratch
-A Mario-style 2D platformer where an AI agent learns to play using Proximal Policy Optimization (PPO) — built entirely from scratch in Java. No PyTorch/TensorFlow: custom matrix ops, dense layers, Adam optimizer, actor-critic network, GAE, and a live Swing training dashboard.
+wrote a Mario-style 2D platformer where an AI agent learns to play using Proximal Policy Optimization (PPO)  built entirely from scratch in Java. I haven't used any other Ml framework or API like PyTorch/TensorFlow: custom matrix ops, dense layers, Adam optimizer, actor-critic network, GAE, and a live Swing training dashboard.
 
 # PPO Mario-Style Platformer — Java
 
