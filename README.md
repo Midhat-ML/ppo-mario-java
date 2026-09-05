@@ -7,7 +7,7 @@ A Mario-style 2D platformer where an agent learns to play using **Proximal Polic
 
 I built the RL stack from scratch in Java rather than using PyTorch, TensorFlow, or another deep-learning framework. The project includes my own matrix operations, neural-network layers, Adam optimizer, Actor-Critic model, PPO training logic, GAE, game physics, environment, and Swing visualization.
 
-![PPO Mario Demo](assets/ppo-mario-demo.gif)
+![PPO Mario Demo](assets/mario.gif)
 
 ---
 
