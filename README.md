@@ -1,5 +1,5 @@
-# Atari-Breakout-Q-Learning-Reinforcement-Learning
-Built a custom Atari Breakout-style game in Java with a tabular Q-learning agent. Used 1,536 discrete states, epsilon-greedy exploration, reward shaping, and adjustable learning rate and discount factor. Added live training metrics, Q-values, and episode tracking.
+# PPO Mario From Scratch
+A Mario-style 2D platformer where an AI agent learns to play using Proximal Policy Optimization (PPO) — built entirely from scratch in Java. No PyTorch/TensorFlow: custom matrix ops, dense layers, Adam optimizer, actor-critic network, GAE, and a live Swing training dashboard.
 
 # PPO Mario-Style Platformer — Java
 
